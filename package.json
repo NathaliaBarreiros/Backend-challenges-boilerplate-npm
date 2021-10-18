@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Nathalia Barreiros",
 	"description": "This project is a boilerplate for the freeCodeCamp curriculum.",
+	"keywords": ["npm", "express", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
